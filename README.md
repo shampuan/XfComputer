@@ -1,7 +1,9 @@
 # XfComputer
 My Computer Application for Debian based Linux systems
 
-The application is still under development, and language support will be added. Unfortunately, there is no support for TOML at the moment, but it will be added in the future.
+The application is still under development. The application features gettext-based translation support and currently includes English and Turkish language options.
+
+TOML support will be added in future versions.
 
 <img width="862" height="1202" alt="00" src="https://github.com/user-attachments/assets/aa769752-cea9-434c-b883-b10c1150ca7e" />
 
